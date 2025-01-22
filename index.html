@@ -3,14 +3,285 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TinyTrend</title>
-  
+    <title>Research Blog</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+
+        .layout {
+            min-height: 100vh;
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+        }
+
+        .topbar {
+            background: #343a40;
+            color: white;
+            padding: 1rem;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .profile {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .profile img {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+
+        .profile-info {
+            line-height: 1.2;
+        }
+
+        .profile-info h2 {
+            font-size: 1.2rem;
+        }
+
+        .profile-info p {
+            font-size: 0.9rem;
+            opacity: 0.9;
+        }
+
+        .social-links {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+        }
+
+        .social-links a {
+            color: white;
+            font-size: 1.2rem;
+            transition: color 0.3s;
+        }
+
+        .social-links a:hover {
+            color: #3498db;
+        }
+
+        .main-content {
+            padding: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .featured-post {
+            background: white;
+            border-radius: 8px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .post-date {
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .posts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 2rem;
+        }
+
+        .post-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .post-card.expanded {
+            grid-column: 1 / -1;
+            margin: 1rem 0;
+        }
+
+        .post-content {
+            max-height: 100px;
+            overflow: hidden;
+            transition: max-height 0.3s ease;
+        }
+
+        .post-card.expanded .post-content {
+            max-height: 2000px;
+        }
+
+        .expand-btn {
+            background: none;
+            border: none;
+            color: #3498db;
+            cursor: pointer;
+            padding: 0.5rem 0;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-top: 1rem;
+            font-size: 0.9rem;
+        }
+
+        .expand-btn:hover {
+            color: #2980b9;
+        }
+
+        .expand-btn i {
+            transition: transform 0.3s ease;
+        }
+
+        .post-card.expanded .expand-btn i {
+            transform: rotate(180deg);
+        }
+
+        @media (max-width: 768px) {
+            .topbar {
+                flex-direction: column;
+                padding: 1rem 0.5rem;
+                gap: 1rem;
+            }
+
+            .profile {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .social-links {
+                justify-content: center;
+            }
+
+            .main-content {
+                padding: 1rem;
+            }
+
+            .posts-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        .post-card-dis {
+			opacity: 0.6;
+			pointer-events: none;
+			background: #f0f3f4;
+			border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+		}
+		
+		footer {
+			margin-top: 4rem;
+			padding: 2rem;
+			text-align: center;
+		}
+
+		.footer hr {
+			margin: 1rem 0;
+		}
+		
+    </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Coming Soon</h1>
-        <p>This website is under construction. Check back soon for updates!</p>
-        <a href="#">Learn More</a>
+    <div class="layout">
+        <header class="topbar">
+            <div class="profile">
+                <img src="/api/placeholder/150/150" alt="Icon">
+                <div class="profile-info">
+                    <h2>TinyTrend</h2>
+                    <p>Dr. Albert Navarro-Gallinad • <a href="https://humantechnopole.it/it/gruppi-di-ricerca/zuccolo-group/" style="color: white;">Human Technopole</a> </p>
+                </div>
+            </div>
+            <div class="social-links">
+				<img src="" style= "color: white" alt= "albert.navarro@fht.org">
+                <a href="https://www.linkedin.com/in/albert-navarro-gallinad/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                <a href="https://github.com/navarral" target="_blank"><i class="fab fa-github"></i></a>
+                <a href="https://orcid.org/0000-0002-2336-753X" target="_blank"><i class="fas fa-info"></i></a>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <article class="featured-post" data-status="active">
+                <span class="post-date">January 31, 2025</span>
+                <h1>Introducing myself</h1>
+                <p>Hi everyone! I will be introducing myself in this post.</p>
+                <button class="expand-btn">
+                    Read more <i class="fas fa-chevron-down"></i>
+                </button>
+            </article>
+
+            <div class="posts-grid">
+                <article class="post-card-dis"">
+                    <span class="post-date">February 28, 2025</span>
+                    <h3>Tips for winning an MSCA</h3>
+                    <div class="post-content">
+                        <p>I believe conducting preliminary analyses early on is fundamental to understand the feasibility of an idea (Tip #4) ...</p>
+                    </div>
+                </article>
+
+                <article class="post-card-dis">
+                    <span class="post-date">March 31, 2025</span>
+                    <h3>Research at the Human Technopole in Italy</h3>
+                    <div class="post-content">
+                        <p>I arrived at HT last June 2023 just after defending my PhD thesis in Trinity College Dublin ...</p>
+                    </div>
+                </article>
+
+                <article class="post-card-dis">
+                    <span class="post-date">April 30, 2025</span>
+                    <h3>Conference report</h3>
+                </article>
+                
+                <article class="post-card-dis">
+                    <span class="post-date">May 31, 2025</span>
+                    <h3>Introducing the Zuccolo group</h3>
+                    <div class="post-content">
+                        <p>Comming soon...</p>
+                    </div>
+                </article>
+                
+            </div>
+            <div class="footer">
+				<hr title="copyright separator" style="top-margin: 1em;">
+				<p class="copyright"> © 2025 - Copyright: Albert Navarro-Gallinad (Last update: January 2025)  </p>
+            </div>
+            
+        </main>
     </div>
+
+    <script>
+        document.querySelectorAll('.expand-btn').forEach(button => {
+            button.addEventListener('click', (e) => {
+                e.preventDefault();
+                const card = button.closest('.post-card, .featured-post');
+                card.classList.toggle('expanded');
+                button.innerHTML = card.classList.contains('expanded') 
+                    ? 'Read less <i class="fas fa-chevron-up"></i>' 
+                    : 'Read more <i class="fas fa-chevron-down"></i>';
+            });
+        });
+        
+    </script>
 </body>
 </html>
+
