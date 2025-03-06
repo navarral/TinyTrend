@@ -135,7 +135,7 @@
 
         
         
-        .expand-btn {
+        .read-more-btn {
 			background: none;
 			border: 1px solid #3498db;
 			color: #3498db;
@@ -150,7 +150,7 @@
 		}
 
 
-        .expand-btn:hover {
+        .read-more-btn:hover {
             color: #2980b9;
         }
 
@@ -294,6 +294,10 @@
             color: rgb(227, 115, 94);
             text-align: center;
         }
+        
+        .more-text {
+            display: none;
+        }
 		
     </style>
 </head>
@@ -323,7 +327,7 @@
 				<p>Welcome to TinyTrend! This research project aims to identify new environmental causes of premature birth by integrating text mining with epidemiological analyses. The project will combine population-wide health data from Lombardy, Italy, comprising 1 million pregnancies between 2012-2023, with insights derived from AI about changes in environmental policies in the same period. This work is funded by the European Union under the Marie Skłodowska-Curie Actions (MSCA) postdoctoral fellowship program (ID: <a href="https://cordis.europa.eu/project/id/101153708">101153708</a>).</p>
 			</div>
 			
-			<article class="featured-post" data-status="active">
+			<article class="featured-post read-more-container" data-status="active">
 				<span class="post-date">February 28, 2025</span>
 				<h1>Tips for winning a MSCA postdoctoral fellowship</h3>
 				<div class="image-container">
@@ -335,8 +339,8 @@
 					We had no previous successful applications in the research center and I did not personally know anyone that had won an MSCA (Marie Skłodowska-Curie Actions) postdoctoral fellowship. I started by asking previous winners for guidance based on their published abstracts from the EU portal (Tip #1). I was surprised by how many replies I got, and I was soon meeting with a dozen of them, some of which kindly shared their winning proposals with me. This was a tipping point as it helped me understand the importance of structure, content balance, and importance of interdisciplinarity for this type of grant (Tip #2). They also emphasised that a key aspect of the proposal is to show that you are exactly the right person for the specific project based on your expertise, institution/research group that you will be working on, and the training that you could access to advance your future career (Tip #3). At that point, I was ready to start writing this proposal. However, the situation suddenly changed.</p>
 						
 				</div>
-					<span id="dots"></span>
-					<span id="more">
+					<span class="dots"></span>
+					<span class="more-text">
 					
 					<p>I was forced to change my initial idea for the project after a couple months working on it. I realised that the environmental data I wanted to use was lacking a key temporal characteristic. Learning from this, I believe conducting preliminary analyses early on is fundamental to understand the feasibility of an idea (Tip #4), as well as, seeking input from others early in the process (Tip #5). </p>
 					
@@ -353,13 +357,13 @@
 					<p>Baumert P, Cenni F, Antonkine ML (2022) Ten simple rules for a successful EU Marie Skłodowska-Curie Actions Postdoctoral (MSCA) fellowship application. PLoS Comput Biol 18(8): e1010371. <a href="https://doi.org/10.1371/journal.pcbi.1010371">https://doi.org/10.1371/journal.pcbi.1010371</a></p>
 					
 					</span>
-					<button class="expand-btn" onclick="myFunction()" id="myBtn">Read more &darr;</button>
+					<button class="read-more-btn" onclick="toggleReadMore(this)">Read more &darr;</button>
 					
 			</article>
 		
             <div class="posts-grid">
                 
-				<article class="post-card">
+				<article class="post-card read-more-container">
 					<span class="post-date">January 31, 2025</span>
 					<h1>Journey from Nanotechnology to Health Data Science</h1>
 					
@@ -371,17 +375,17 @@
 						In this blog, I'll touch briefly on some key chapters of my journey. If any part of my story resonates with you, let me know as I’d be happy to expand on it in a full blog post if it would be helpful!</p>
 							
 					
-					<span id="dots"></span>
-					<span id="more">
-					<div class="image-container">	
+					<span class="dots"></span>
+					<span class="more-text">
+					<!-- <div class="image-container">	-->
 						<img src="assets/figure_post1.jpg" alt="EU_journey" 
-								style="border-radius: 8%; margin-left: auto;  margin-right: 1em; max-height: 40vh" >
+								style="border-radius: 8%; margin-left: auto;  margin-right: 1em; max-height: 30vh" >
 					<h2>Chapter 1: Nanotechnology</h2>
 					
 					<p>Fresh out of school, I wanted to study life sciences in University but I was unsure of which one to choose. I was a good student in school but not an excellent one, which made difficult getting into medicine in Barcelona. When trying to select the next best option, I stumbled upon Nanotechnology (what a cool name I thought!). Nanotechnology involves studying and manipulating materials at the nanoscale, combining my favourite subjects of physics, chemistry, biology, and math to create advanced technologies in various fields. I ended up enjoying this degree, and I would do it again in a heartbeat, for both the degree and the people I met along the way.</p>
 					
 					<p>The most valuable takeaway from this degree was learning to solve complex problems within interdisciplinary teams. I gained the ability to understand colleagues from diverse backgrounds, even without mastering a single discipline – just their interactions. However, I felt I lacked experience in optimizing parameters, making data-driven decisions, and working with large datasets to model outcomes.</p>
-					</div>
+					<!--</div>-->
 					<h2>Chapter 2: Data modelling</h2>
 					
 					<p>I decided to take a couple of classes on environmental modelling during my Erasmus in Ghent to overcome my lack of data modelling skills and … I loved it! We were able to simplify a system and even do some predictions at the click of a button. No need to process 100 samples to find a good enough reagent while wearing a lab coat or these funny plastic gloves. I was in for a treat. I rapidly start catching up with coding in R and enrolled in data modelling master’s also in Barcelona. I was the only one from Nanotechnology that had chosen this route as most of my friends decided to do material sciences, biomedicine, biotechnology or take a gap year.</p>
@@ -400,8 +404,7 @@
 					
 					<p>After my PhD, I joined the Human Technopole in Milan (Italy) as a postdoc, working on child and maternal health with Luisa Zuccolo’s group. In the next posts, I’ll share more about this chapter, including how I went on to secure a MSCA Postdoctoral Fellowship within a few months of joining in. </p>
 					</span>
-					<button class="expand-btn" onclick="myFunction()" id="myBtn">Read more &darr;</button>
-					<!-- <button class="expand-btn">
+					<button class="read-more-btn" onclick="toggleReadMore(this)">Read more &darr;</button><!-- <button class="expand-btn">
 						Read more <i class="fas fa-chevron-down"></i>
 					</button> -->
 					
@@ -444,21 +447,6 @@
 	
 	<!--
     <script>
-        document.querySelectorAll('.expand-btn').forEach(button => {
-            button.addEventListener('click', (e) => {
-                e.preventDefault();
-                const card = button.closest('.post-card, .featured-post');
-                card.classList.toggle('expanded');
-                button.innerHTML = card.classList.contains('expanded') 
-                    ? 'Read less <i class="fas fa-chevron-up"></i>' 
-                    : 'Read more <i class="fas fa-chevron-down"></i>';
-            });
-        });
-        
-    </script>
-    -->
-    
-    <script>
 		function myFunction() {
 		  var dots = document.getElementById("dots");
 		  var moreText = document.getElementById("more");
@@ -475,5 +463,28 @@
 		  }
 		}
 	</script>
+    -->
+    
+	<script>
+        function toggleReadMore(btn) {
+            // Get the parent container
+            const container = btn.closest('.read-more-container');
+            
+            // Find the dots and more text within this specific container
+            const dots = container.querySelector('.dots');
+            const moreText = container.querySelector('.more-text');
+            
+            // Toggle the display
+            if (dots.style.display === "none") {
+                dots.style.display = "inline";
+                btn.innerHTML = "Read more";
+                moreText.style.display = "none";
+            } else {
+                dots.style.display = "none";
+                btn.innerHTML = "Read less";
+                moreText.style.display = "inline";
+            }
+        }
+    </script>
 </body>
 </html>
