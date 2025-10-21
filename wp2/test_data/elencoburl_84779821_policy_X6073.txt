@@ -1,0 +1,146 @@
+D.g.r. 29 dicembre 2016 - n. X/6073
+Istituzione e disciplina della banca dati regionale degli
+occupanti senza titolo di unità abitative pubbliche
+LA GIUNTA REGIONALE
+Vista la legge regionale 8 luglio 2016, n. 16 «Disciplina regionale
+dei servizi abitativi» e, in particolare, l’articolo 22, comma 1, lettera f),
+ai sensi del quale i beneficiari dei servizi abitativi pubblici devono
+avere, fra gli altri, il requisito di assenza di eventi di occupazione
+abusiva di alloggio o di unità immobiliare ad uso non residenziale
+o di spazi pubblici e/o privati negli ultimi cinque anni;
+Visto, in particolare, il comma 3 dell’articolo 22 della l.r. 16/2016
+secondo cui «… la Giunta regionale istituisce una banca dati degli
+occupanti senza titolo di unità abitative pubbliche, disciplinando
+criteri e modalità per l’accesso e l’aggiornamento periodico. I dati
+e le informazioni per l’aggiornamento della banca dati regionale
+sono forniti da comuni, ALER ed operatori accreditati e costituiscono debito informativo nei confronti della Regione.»;
+Ritenuta pertanto necessaria, ai sensi della normativa sopra
+richiamata, l’istituzione, presso la Giunta regionale, della Banca dati regionale degli occupanti senza titolo di unità abitative
+pubbliche i cui dati, di proprietà di Regione Lombardia, siano
+fruibili ai soggetti pubblici titolari delle funzioni amministrative relative alla selezione dei beneficiari e all’assegnazione dei servizi
+abitativi pubblici e sociali;
+Ritenuto inoltre di adottare una disciplina sul funzionamento
+di tale Banca dati che preveda a carico dei soggetti proprietari
+di unità abitative pubbliche l’obbligo di garantirne l’implementazione e l’aggiornamento tempestivo e che individui contenuti
+e modalità per una corretta registrazione, come meglio descritto
+nell’allegato alla presente deliberazione;
+Richiamate
+
+• la convenzione quadro tra la Giunta regionale e Lombardia
+Informatica s.p.a. (Lispa) sottoscritta il 20 gennaio 2016 sulla base della d.g.r. n. 4696/2015, allegato 1;
+
+• la d.g.r. n. 4653 del 23 dicembre 2015 con la quale è stato
+approvato il Programma Operativo per l’anno 2016 del Sistema Informativo Regionale con l’indicazione delle attività
+progettuali e gestionali, anche a valenza pluriennale, da
+affidare a Lispa nel 2016 (allegato G);
+
+Rilevato che lo studio e l’implementazione della piattaforma informatica prevista dall’articolo 6, comma 4, della l.r. 16/2016 di cui
+la «Banca dati regionale degli occupanti senza titolo di unità abitative pubbliche» è parte, rientra tra le attività previste nel Programma
+Operativo per l’anno 2016 del Sistema Informativo Regionale («Applicativi a supporto delle politiche regionali per la casa»);
+Rilevato che le attività di analisi per lo sviluppo della piattaforma informatica e della banca dati sopra citate sono state avviate nel corso dell’anno 2016;
+Ritenuto che, in fase di prima applicazione, debbano essere
+registrati nella banca dati coloro che risultano individuati come
+occupanti senza titolo alla data di entrata in vigore del presente
+provvedimento;
+Vista la legge regionale 7 luglio 2008, n. 20 «Testo unico delle
+leggi regionali in materia di organizzazione e personale», nonché i provvedimenti organizzativi della X Legislatura;
+All’unanimità dei voti espressi nelle forme di legge;
+DELIBERA
+1.  di istituire ed attivare, ai sensi della normativa sopra richiamata, presso la Giunta regionale la banca dati regionale degli
+occupanti senza titolo di unità abitative pubbliche i cui dati, di
+proprietà di Regione Lombardia, siano fruibili ai soggetti pubblici
+titolari delle funzioni amministrative relative alla selezione dei beneficiari e all’assegnazione dei servizi abitativi pubblici e sociali;
+2.  di approvare la disciplina allegata relativa alle modalità di
+funzionamento della medesima Banca dati che costituisce parte integrante e sostanziale della presente deliberazione;
+3.  di disporre che, in fase di prima applicazione, vengano registrati nella banca dati coloro che risultano individuati come
+occupanti senza titolo alla data di entrata in vigore del presente
+provvedimento;
+4. di dar mandato al dirigente competente pro tempore di
+adottare ogni provvedimento utile all’attuazione della presente
+deliberazione nonché ad assicurare l’operatività della banca
+dati;
+
+5. di disporre la pubblicazione del presente provvedimento
+sul Bollettino Ufficiale di Regione Lombardia, nonché sul sito istituzionale della Regione.
+Il segretario: Fabrizio De Vecchi
+——— • ———
+
+Bollettino Ufficiale
+
+–3–
+Serie Ordinaria n. 1 - Mercoledì 04 gennaio 2017
+ALLEGATO
+DISCIPLINA
+DELLA BANCA DATI REGIONALE DEGLI OCCUPANTI SENZA TITOLO
+
+I.	
+
+La Banca Dati regionale degli occupanti senza titolo di unità abitative pubbliche, istituita presso la Giunta regionale, ai
+sensi dell’art. 22, comma 3 della legge regionale 16/2016, è disciplinata dalle seguenti disposizioni.
+
+II.	
+
+I dati in essa contenuti sono di proprietà di Regione Lombardia e sono a disposizione dei soggetti pubblici titolari delle
+funzioni amministrative relative alla selezione dei beneficiari e all’assegnazione dei servizi abitativi pubblici e sociali, ai fini
+della verifica del requisito di cui all’art. 22, comma 1, lettera f) della legge regionale 16/2016 relativo all’assenza di eventi
+di occupazione abusiva negli ultimi cinque anni.
+
+III.	
+
+Ai soggetti registrati è inibito l’accesso ai servizi abitativi pubblici e sociali.
+
+IV.	
+
+Gli enti proprietari di unità abitative pubbliche e/o sociali (comuni, ALER, operatori privati accreditati) assicurano l’aggiornamento della banca dati, procedendo alla registrazione dei dati previsti, entro e non oltre 10 giorni lavorativi dall’adozione dell’atto o provvedimento che accerta l’occupazione senza titolo.
+
+V.	
+
+L’occupazione di una unità abitativa si intende senza titolo nei seguenti casi:
+a.	 a seguito di effrazione;
+b.	 a seguito di subentro o comunque permanenza senza titolo;
+c.	 a seguito di dichiarazione di decadenza, nei casi stabiliti dall’art. 26, comma 9, della l.r. 16/2016 e dal regolamento
+regionale di cui all’art. 23, comma 9, della l.r. 16/2016;
+d.	 a seguito di provvedimento di annullamento dell’assegnazione, nei casi stabiliti dall’art. 26, comma 6, della l.r. 16/2016
+e dal regolamento regionale di cui all’art. 23, comma 9 della lr 16/2016.
+
+VI.	
+
+Nella registrazione devono essere riportati:
+a.	 i dati anagrafici identificativi dei soggetti individuati come occupanti senza titolo. In presenza di occupazione attribuibile a più persone o a nuclei familiari, devono essere registrati i dati di tutti i soggetti identificabili;
+b.	 la tipologia di occupazione senza titolo, ai sensi del punto V;
+c.	 gli estremi del provvedimento o atto che accerta l’occupazione senza titolo;
+d.	 i dati identificativi dell’immobile occupato;
+e.	 la data d’inizio dell’occupazione senza titolo (data dell’accertamento dell’effrazione, data del diniego al subentro/
+permanenza, data del provvedimento di annullamento, data della dichiarazione di decadenza);
+f.	 la data di cessazione dell’occupazione senza titolo;
+g.	 ogni altro dato o fatto, anche successivo al primo accertamento, che modifichi la condizione degli occupanti o dell’immobile.
+
+VII.	
+
+I provvedimenti che accertano l’occupazione senza titolo e che devono essere registrati per estremi, ai sensi del punto VI,
+lettera c), sono i seguenti:
+a.	 atto o verbale di accertamento dell’effrazione;
+b.	 atto di diniego al subentro o permanenza senza titolo;
+c.	 provvedimento di annullamento dell’assegnazione;
+d.	 dichiarazione di decadenza dall’assegnazione;
+
+VIII.	
+
+La registrazione è soggetta a cancellazione e cessa di avere i suoi effetti preclusivi ai fini dell’assegnazione di alloggi
+sociali, decorsi cinque anni dalla data di rilascio dell’immobile ovvero dalla data in cui l’occupazione riacquista titolo
+legittimante, come definita ai sensi del punto seguente, e comunque in conformità a quanto stabilito dal regolamento
+regionale di cui all’art. 23, comma 9, della lr 16/2016.
+
+IX.	
+
+Nel caso di annullamento o revoca, in via giurisdizionale o in sede di autotutela, del provvedimento di annullamento, decadenza o diniego di subentro o permanenza nella banca dati vengono riportati:
+a.	 gli estremi del relativo provvedimento di revisione;
+b.	 la data in cui l’occupazione riacquista titolo legittimante;
+c.	 l’eventuale data di decorrenza degli effetti preclusivi della registrazione.
+
+–4–
+
+Bollettino Ufficiale
+
+Serie Ordinaria n. 1 - Mercoledì 04 gennaio 2017
+

@@ -1,0 +1,241 @@
+D.g.r. 29 dicembre 2016 - n. X/6077
+Interventi per la semplificazione dei procedimenti di
+riconoscimento ai sensi dei regg. (CE) 853/2004, 183/2005,
+1069/2009 e del procedimento di registrazione ai sensi del
+reg. (CE) 1069/2009
+LA GIUNTA REGIONALE
+Visti:
+• il reg. (CE) n. 853/2004 del Parlamento europeo e del
+Consiglio del 29 aprile 2004, che stabilisce norme specifiche in materia di igiene per gli alimenti di origine animale;
+• il reg. (CE) n. 183/2005 del Parlamento europeo e del
+Consiglio del 12 gennaio 2005, che stabilisce requisiti per
+l’igiene dei mangimi;
+• il reg. (CE) n. 1069/2009 del Parlamento europeo e del
+Consiglio del 21 ottobre 2009, recante norme sanitarie relative ai sottoprodotti di origine animale e ai prodotti derivati non destinati al consumo umano e che abroga il
+reg. (CE) n. 1774/2002;
+• la Direttiva 2006/123/CE, e, in particolare, l’art. 6 relativo
+alla semplificazione delle procedure amministrative mediante la previsione di un unico interlocutore tramite il
+quale espletare le procedure e formalità per l’avvio e l’esercizio dell’attività d’impresa;
+• la l. 7 agosto 1990, n. 241, in particolare:
+−− l’art. 3-bis che incentiva l’uso della telematica da parte
+delle pubbliche amministrazioni nei rapporti interni, tra
+le diverse amministrazioni e tra queste e i privati;
+−− l’art. 18, commi 2 e 3, ai sensi del quale le amministrazioni pubbliche acquisiscono d’ufficio i documenti già in
+possesso di una pubblica amministrazione e accertano d’ufficio gli stati e le qualità che la pubblica amministrazione è tenuta a certificare;
+• la l.r. 1 febbraio 2012, n. 1, in materia di procedimento amministrativo, diritto di accesso ai documenti amministrativi,
+semplificazione amministrativa, potere sostitutivo e potestà sanzionatoria;
+Richiamati:
+• il d.lgs. 26 marzo 2010, n. 59, che recepisce nell’ordinamento nazionale la Direttiva Servizi e identifica nello Sportello Unico per le Attività Produttive (SUAP) il soggetto pubblico di riferimento per i procedimenti che abbiano ad
+oggetto l’esercizio di attività produttive e di prestazione
+di servizi; lo Sportello assicura al richiedente una risposta
+telematica unica e tempestiva in luogo di altri uffici comunali e di tutte le amministrazioni pubbliche comunque
+coinvolte nel procedimento;
+• il d.p.r. 28 dicembre 2000, n. 445, e, in particolare, gli artt.
+43 e 43-bis relativi all’acquisizione d’ufficio da parte del
+SUAP della documentazione d’impresa, alla trasmissione
+della stessa alle amministrazioni coinvolte nel procedimento, nonché all’alimentazione del Fascicolo Informatico d’Impresa;
+• il d.p.r. 7 settembre 2010, n. 160, che identifica nel SUAP il
+solo soggetto pubblico di riferimento territoriale per tutti i
+procedimenti che abbiano ad oggetto l’esercizio di attività produttive e che, in particolare, individua nel portale «impresainungiorno» il fornitore di servizi informativi e
+operativi ai SUAP per la loro attività, costituendo punto di
+contatto a livello nazionale per le attività di cui al d.lgs. 26
+marzo 2010, n. 59, e assicurando il collegamento con le
+autorità competenti ai sensi dell’art. 8, co. 1, lettera i), del
+medesimo D.lgs.;
+Richiamata, in particolare, la l.r. 19 febbraio 2014, n. 11 - «Impresa Lombardia: per la libertà di impresa, il lavoro e la competitività» che, in conformità alle sopracitate disposizioni normative,
+prevede interventi finalizzati a:
+−− valorizzare il ruolo dello Sportello Unico per le Attività Produttive (SUAP) quale unico interlocutore per l’impresa in
+relazione alle attività di avvio e di esercizio dell’attività
+imprenditoriale, favorendone il miglioramento dei livelli di
+servizio;
+−− promuovere lo strumento del Fascicolo Informatico d’Impresa quale unico contenitore delle informazioni connesse all’attività imprenditoriale, nonché strumento di semplificazione, coordinamento e snellimento dell’attività di
+
+controllo attraverso cui le Amministrazioni possono rinvenire i documenti necessari;
+Richiamate, altresì:
+• la l.r. 30 dicembre 2009, n. 33 - «Testo unico delle leggi
+regionali in materia di sanità» e s.m.i., che sancisce la
+competenza in materia di sanità pubblica veterinaria e
+sicurezza degli alimenti di origine animale in capo ai dipartimenti veterinari e sicurezza degli alimenti di origine
+animale e ai distretti di medicina veterinaria dell’ATS;
+• la circolare n. 13/SAN del 29 settembre 2010 - Aggiornamento della Circolare 52/SAN del 23 dicembre 2005 avente per oggetto: «Introduzione dell’obbligo di registrazione
+e riconoscimento per le imprese del settore alimentare»
+ai sensi del Reg. (CE) n. 853/2004, recante la modulistica
+per la presentazione delle domande;
+• la circolare n. 4/SAN del 28 marzo 2011 - «Registrazione e
+riconoscimento per le imprese del settore dei sottoprodotti
+di origine animale», ai sensi del reg. (CE) n. 1069/2009, recante la modulistica per la presentazione delle domande;
+Dato atto che al fine di uniformare i procedimenti di pertinenza del SUAP nonché di semplificare ed ottimizzare l’utilizzo della
+documentazione necessaria è stato avviato un approfondimento dei procedimenti di competenza delle Agenzie di Tutela della
+Salute e nello specifico delle istanze di riconoscimento ai sensi
+dei regg. (CE) 853/2004, 183/2005, 1069/2009 e di registrazione
+ai sensi del reg. (CE) 1069/2009;
+Rilevato, in particolare, che la trasmissione delle sopra citate
+istanze e comunicazioni avviene in modalità cartacea, attraverso la presentazione della relativa modulistica all’Agenzia di
+Tutela della Salute pur rientrando nell’ambito di operatività del
+SUAP e che sussiste una difformità di prassi nella gestione dei
+procedimenti;
+Dato atto che alla luce delle criticità riscontrate è stato avviato un percorso di ricognizione e revisione del processo e di
+informatizzazione dei relativi procedimenti, con il coinvolgimento
+dei Dipartimenti interessati delle Agenzie di Tutela della Salute,
+considerato anche l’impatto di tali procedimenti che interessano circa n. 3800 imprese lombarde già operanti nel settore;
+Atteso che tali interventi prevedono, in particolare:
+• l’individuazione dello Sportello Unico per le Attività Produttive quale unico soggetto procedente per la gestione in
+forma dematerializzata dei procedimenti, ferma restando
+la competenza dell’Agenzia di Tutela della Salute;
+• l’informatizzazione delle istanze e delle comunicazioni di cui ai procedimenti di riconoscimento ai sensi dei
+regg. (CE) 853/2004, 183/2005, 1069/2009 e di registrazione ai sensi del Reg. (CE) 1069/2009 che saranno disponibili sul portale «impresainungiorno», ai sensi dell’art. 3 del
+d.p.r. 160/2010;
+Considerato che tali interventi di semplificazione del processo
+perseguono un obiettivo di efficienza e razionalizzazione e consentono la tracciabilità della pratica, l’uniformità nella gestione
+dei procedimenti, la compilazione guidata delle istanze e comunicazioni, l’eliminazione di allegati non necessari;
+Rilevato altresì che tali interventi comportano per gli utenti una semplificazione in termini di presentazione delle istanze
+nonché la possibilità di reperire la documentazione presentata
+e i relativi titoli autorizzativi direttamente nel Fascicolo Informatico d’Impresa;
+Ritenuto, pertanto, di approvare gli interventi di semplificazione disciplinati dalle linee operative di cui all’allegato A, parte
+integrante e sostanziale del presente provvedimento;
+Vista la l.r. 7 luglio 2008, n. 20 e i Provvedimenti Organizzativi
+della X legislatura;
+Vagliate ed assunte come proprie le predette determinazioni;
+A voti unanimi espressi nelle forme di legge;
+DELIBERA
+1. di individuare lo Sportello Unico per le Attività Produttive
+(SUAP) quale soggetto competente per la ricezione da parte
+dell’utente delle seguenti istanze e comunicazioni:
+−− domanda di riconoscimento ai sensi del reg. (CE)
+n. 853/2004, di aggiornamento del relativo decreto, di
+voltura per cambio di ragione sociale;
+−− comunicazione di modifiche strutturali e/o impiantistiche
+che non comportano variazioni delle attività di cui al decreto di riconoscimento rilasciato ai sensi del reg. (CE)
+n. 853/2004 e comunicazione di cessazione delle attività;
+
+Bollettino Ufficiale
+
+–3–
+Serie Ordinaria n. 2 - Lunedì 09 gennaio 2017
+
+−− domanda di riconoscimento ai sensi del reg. (CE)
+n. 183/2005 articoli 2 e 10, di aggiornamento del relativo
+decreto, di voltura per cambio di ragione sociale;
+−− comunicazione di modifiche strutturali e/o impiantistiche
+che non comportano variazioni delle attività di cui al decreto di riconoscimento rilasciato ai sensi del reg. (CE)
+n. 183/2005 articoli 2 e 10 e comunicazione di cessazione delle attività;
+−− domanda di riconoscimento ai sensi del reg. (CE)
+n. 1069/2009, di aggiornamento del relativo decreto, di
+voltura per cambio di ragione sociale;
+−− comunicazione di modifiche strutturali e/o impiantistiche
+e/o di lavorazione che non comportano sostituzioni o aggiunte alla tipologia di categoria e/o di attività produttiva prevista dal decreto di riconoscimento ai sensi del
+reg. (CE) n. 1069/2009 e comunicazione di cessazione
+delle attività;
+−− domanda di registrazione ai sensi del reg. (CE)
+n. 1069/2009;
+2. di approvare le linee operative che disciplinano la trasmissione delle sopra citate domande al Dipartimento veterinario e
+sicurezza degli alimenti di origine animale delle Agenzie di Tutela della Salute, di cui all’allegato A parte integrante e sostanziale
+del presente atto;
+3. di dare atto che le domande e le comunicazioni di cui al
+punto 1) sono informatizzate e disponibili a decorrere dal 1° febbraio 2017 sul portale «impresainungiorno» ai sensi dell’art. 3 del
+d.p.r. 160/2010 e che da tale data non sarà possibile presentare
+tali domande e comunicazioni in modalità cartacea;
+4. di dare atto che gli Enti interessati assicurano agli utenti la
+consulenza funzionale all’istruttoria di cui al d.lgs n. 222/2016
+anche in ordine ai procedimenti in oggetto;
+5. di demandare al dirigente pro-tempore della U.O. Veterinaria l’adozione di eventuali ulteriori provvedimenti di competenza
+ai fini della presentazione delle domande e delle comunicazioni
+per i procedimenti di cui ai regolamenti sopra citati;
+6. di dare atto che la presente deliberazione non comporta
+oneri finanziari a carico del bilancio regionale;
+7. di disporre la pubblicazione del presente atto sul BURL e sul
+Portale istituzionale della Regione Lombardia.
+II segretario: Fabrizio De Vecchi
+——— • ———
+
+–4–
+
+Bollettino Ufficiale
+
+Serie Ordinaria n. 2 - Lunedì 09 gennaio 2017
+ALLEGATO A
+LINEE OPERATIVE PER LA PRESENTAZIONE DELLE DOMANDE DI RICONOSCIMENTO E COMUNICAZIONI AI SENSI DEI REGG. (CE)
+853/2004, 183/2005, 1069/2009 E DELLA DOMANDA DI REGISTRAZIONE AI SENSI DEL REG. (CE) 1069/2009
+1.
+
+I PRESUPPOSTI NORMATIVI E LE FINALITA’ DELL’INTERVENTO DI SEMPLIFICAZIONE
+
+La Direttiva 2006/123/CE - Direttiva Servizi, in particolare l’art. 6, mira alla semplificazione delle procedure amministrative attraverso la
+presenza di un interlocutore unico tramite il quale espletare tutte le procedure e formalità per l’avvio e l’esercizio dell’attività d’impresa.
+Il D.lgs. n. 59/2010, che recepisce nell’ordinamento nazionale la Direttiva Servizi, assicura l’espletamento in via telematica di tutte le
+procedure necessarie per poter svolgere le attività di servizi attraverso lo Sportello Unico per le Attività Produttive (SUAP), affermando
+la competenza dello stesso in merito all’inoltro in via telematica della documentazione alle altre Amministrazioni che intervengono
+nel procedimento.
+In conformità a tali previsioni il D.p.r. n. 160/2010 “Regolamento per la semplificazione e il riordino della disciplina sullo Sportello Unico
+per le Attività Produttive” identifica nel SUAP il solo soggetto pubblico di riferimento territoriale per tutti i procedimenti che abbiano ad
+oggetto l’esercizio di attività produttive e, in particolare, individua nel portale “impresainungiorno” il fornitore di servizi informativi e operativi ai SUAP per la loro attività, costituendo punto di contatto a livello nazionale per le attività di cui al D.lgs. n. 59/2010, e assicurando
+il collegamento con le autorità competenti ai sensi dell’art. 8, co. 1, lettera i), del medesimo D.lgs..
+Il regolamento SUAP ha come scopo il miglioramento dei processi gestiti dalla Pubblica Amministrazione attraverso disposizioni di semplificazione normativa e di innovazione tecnologica, rendendo più efficiente e trasparente l’azione pubblica e agevolando l’esercizio
+del diritto di iniziativa economica.
+Sulla base di tale contesto normativo, la l.r. n. 11/2014 “Impresa Lombardia: per la libertà di impresa, il lavoro e la competitività” prevede
+mirati interventi di semplificazione a favore delle imprese con particolare riferimento al miglioramento dei livelli di servizio erogati dai
+SUAP.
+Le presenti linee guida forniscono un supporto operativo ai Dipartimenti veterinari e sicurezza degli alimenti di origine animale delle
+Agenzie di Tutela della Salute (ATS), ai SUAP e alle imprese utenti al fine di illustrare le modalità di trasmissione, ricezione e gestione
+delle istanze e comunicazioni relative ai procedimenti in oggetto e di rilascio del provvedimento finale all’impresa da parte dell’ATS
+territorialmente competente.
+Le nuove modalità, introdotte a decorrere dal 1° febbraio 2017, consentono il superamento dell’attuale modalità cartacea di presentazione delle domande di riconoscimento e comunicazioni ai sensi dei Regg. (CE) 853/2004, 183/2005, 1069/2009 e della domanda
+di registrazione ai sensi del Reg. (CE) 1069/2009 che sono rese disponibili in forma telematica sul portale “impresainungiorno” ai sensi
+dell’art. 3 del D.P.R. 160/2010. “Impresainungiorno” costituisce, infatti, il portale nazionale di riferimento per le imprese e i soggetti da
+esse delegati che consente di ottenere tutte le informazioni utili per espletare, in modalità telematica, gli adempimenti necessari al
+regolare svolgimento dell’attività d’impresa.
+L’intervento in oggetto mira ad apportare una serie di benefici all’impresa e all’Ente competente in termini di semplificazione e di razionalizzazione del processo, consentendo: la tracciabilità della pratica, l’uniformità nella gestione dei procedimenti, la compilazione
+guidata delle domande e comunicazioni, l’eliminazione di allegati superflui, l’alimentazione automatica, tramite il SUAP, del Fascicolo
+Informatico d’Impresa quale unico contenitore di tutte le informazioni connesse all’attività dell’imprenditore, nonché strumento di
+semplificazione, coordinamento e snellimento dell’attività di controllo attraverso cui le Amministrazioni possono rinvenire i documenti
+necessari.
+2.
+
+GLI ENTI COINVOLTI NEL PROCEDIMENTO
+
+Il SUAP costituisce l’ente procedente deputato alla ricezione da parte dell’utente delle seguenti domande e comunicazioni:
+
+−
+−
+−
+−
+−
+−
+−
+
+Domanda di riconoscimento ai sensi del Reg. (CE) n. 853/2004, di aggiornamento del relativo decreto, di voltura per cambio
+di ragione sociale;
+Comunicazione di modifiche strutturali e/o impiantistiche che non comportano variazioni delle attività di cui al decreto di
+riconoscimento rilasciato ai sensi del Reg. (CE) n. 853/2004 e comunicazione di cessazione delle attività;
+Domanda di riconoscimento ai sensi del Reg. (CE) n. 183/2005 articoli 2 e 10, di aggiornamento del relativo decreto, di voltura per cambio di ragione sociale;
+Comunicazione di modifiche strutturali e/o impiantistiche che non comportano variazioni delle attività di cui al decreto di
+riconoscimento rilasciato ai sensi del Reg. (CE) n. 183/2005 articoli 2 e 10 e comunicazione di cessazione delle attività;
+Domanda di riconoscimento ai sensi del Reg. (CE) n. 1069/2009, di aggiornamento del relativo decreto, di voltura per cambio di ragione sociale;
+Comunicazione di modifiche strutturali e/o impiantistiche e/o di lavorazione che non comportano sostituzioni o aggiunte
+alia tipologia di categoria e/o di attività produttiva prevista dal decreto di riconoscimento ai sensi del Reg. (CE) n. 1069/2009
+e comunicazione di cessazione delle attività;
+Domanda di registrazione ai sensi del Reg. (CE) n. 1069/2009.
+
+Il SUAP verifica, con modalità informatica, la completezza formale della pratica e dei relativi allegati e provvede immediatamente all’inoltro telematico all’Agenzia di Tutela della Salute territorialmente competente, in particolare al Dipartimento veterinario e sicurezza
+degli alimenti di origine animale.
+L’ATS, ente competente con riferimento ai procedimenti sopra elencati, accedendo alla Scrivania Enti Terzi (resa disponibile dal gestore della piattaforma “impresainungiorno”) procede al controllo di merito dei requisiti e dei presupposti richiesti dalla disciplina
+vigente. Se l’esito è positivo, l’istruttoria prosegue secondo l’iter previsto; se l’esito è negativo, l’ATS, entro trenta giorni dal ricevimento
+dell’istanza/comunicazione, può richiedere all’interessato, con modalità informatica, tramite il SUAP, la documentazione integrativa. I
+
+Bollettino Ufficiale
+
+–5–
+Serie Ordinaria n. 2 - Lunedì 09 gennaio 2017
+
+termini per la richiesta d’integrazione della documentazione possono essere sospesi per una sola volta e per un periodo non superiore a trenta giorni.
+Terminata la fase istruttoria, l’ATS adotta il provvedimento finale e lo trasmette al SUAP per l’invio all’impresa; a livello informatico il SUAP
+opera la chiusura del procedimento a sistema. Tale operazione comporta l’invio automatico della notifica di conclusione del procedimento all’impresa e della comunicazione al REA. A ciò consegue l’alimentazione automatica del Fascicolo Informatico d’Impresa.
+Si illustra di seguito, in via esemplificativa, il flusso relativo al processo sopra descritto.
+
+FLUSSO DI PROCESSO DELLA GESTIONE DEL PROCEDIMENTO CON IL PORTALE “IMPRESAINUNGIORNO”
+
+–6–
+
+Bollettino Ufficiale
+
+Serie Ordinaria n. 2 - Lunedì 09 gennaio 2017
