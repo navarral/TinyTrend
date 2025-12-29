@@ -340,19 +340,54 @@
 			</div>
 			
 			<article class="featured-post read-more-container" data-status="active">
-				<span class="post-date">September 30, 2025</span>
-				<h1>Researchers’ Night 2026 in Milan</h3>
+				<span class="post-date">December 29, 2025</span>
+				<h1>A year as a MSCA postdoc: exploring preterm birth trends (Part 1)</h3>
 				<div class="image-container">
-					<img src="assets/figure_post4.jpeg" alt="RN_memorygame"
+					<img src="assets/figure_post5.png" alt="lombardy_map"
 							style="border-radius: 6%; margin-left: auto;  margin-right: 1em; max-height: 30vh" >
-					<p>The last Friday of September is always an exciting date on my calendar: Researchers’ Night. Researchers across the world bring their science outside the lab into the streets, museums, and universities. For me, it’s about sharing what we do and our passion for science to the people that could benefit the most. 
+					<p>This is the first of three blog posts summarising my first year as a Marie Skłodowska-Curie Actions (MSCA) postdoctoral researcher. In this post, I’ll focus on my work describing preterm birth trends and spatial patterns in Lombardy. The next posts will cover chemical policy annotation (Part 2) and my training, career development, and conference activities (Part 3). 
 					<br>
 					<br>
-					On 26 September 2025, this special night was celebrated all across <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/msca-citizens/join-a-celebration-of-science">Europe</a>. More than 1.5 million people took part in activities spread across 460 cities in 25 countries. From experiments and hands-on games to lively discussions and exhibitions, it was a chance for people of all ages to dive into the world of science and connect directly with researchers in their communities.</p>
+					As 2025 comes to a close, I’ve been reflecting on my first year as an MSCA postdoctoral researcher. It felt very different from my previous year as a regular postdoc without dedicated funding. I had more responsibility for my project, but I also had more time and resources to invest in my career through conferences, meetings, trainings, and courses.</p>
 						
 				</div>
 					<span class="dots"></span>
 					<span class="more-text">
+					
+					<p>Writing the detailed project proposal in 2023 proved invaluable for keeping me aligned with deliverables and objectives. At the same time, I quickly realized that adjustments were inevitable, whether to overcome data limitations, refine methods after conferences and trainings, or incorporate insights from the latest literature.</p>
+					
+					<p>I spent the early months focusing on describing preterm birth trends and spatial patterns. The project uses administrative health data covering deliveries from women resident in Lombardy between 2013 and 2024 (≈900,000 pregnancies). Preterm birth is defined as singleton births between 22 and 37 gestational weeks, aggregated weekly or monthly. The dataset includes enough information to categorise preterm births by labour onset: spontaneous (labour starts naturally) and indicated (medically planned for maternal or fetal health).</p>
+								
+					<p>I calculated preterm birth rates by dividing the number of preterm births by total deliveries each month for each labour category. Using rates instead of counts accounts for differences in the number of births over time or across provinces, making trends easier to compare. At this stage, I could observe a temporal pattern: spontaneous preterm births have been decreasing, while indicated preterm births followed a less clear, non-linear trend. To gain a finer understanding, I grouped the data by the 12 provinces of Lombardy and used a two-week resolution, a compromise between weekly and monthly aggregation that retained enough observations to reliably compute trends.</p>
+					
+					<p>Initial visualizations using rolling means revealed considerable variation (1–6%) across provinces and labour types, which made me even more curious about potential environmental influences. Geographic and temporal variations often provide clues about environmental signals in the data, and this was an exciting moment where the project felt very alive.</p>
+					
+					<p>At this stage, I realized I hadn’t done time series analysis in several years. I decided to explore approaches beyond traditional epidemiology, looking at econometrics and ecology models, which often pioneer these methods. Recent literature pointed me toward Bayesian Dynamic Generalised Additive Models (Dynamic GAMs), which extend standard GAMs by incorporating a Gaussian process to capture the temporal structure of the data. Compared to standard GAMs, Dynamic GAMs improve forecasting and temporal process modelling—a crucial advantage as I prepare for an Interrupted Time Series (ITS) design for causal inference. For readers unfamiliar with Dynamic GAMs, Nicholas Clark’s mvgam package and blog are a well-documented starting point: <a href="https://nicholasjclark.github.io/mvgam/">https://nicholasjclark.github.io/mvgam/</a>.</p>
+					
+					<p>Finding Dynamic GAMs was a turning point. They allowed me to start describing both the temporal evolution and geographic variation of preterm birth rates in much more detail than before, capturing subtle trends, differences between provinces, and patterns by labour type. That said, there is still work to do: I need more time to consolidate the results, fine-tune the model parameters, and carefully interpret the outputs before moving on to ITS analyses.</p>
+					
+					</span>
+					<button class="read-more-btn" onclick="toggleReadMore(this)">Read more &darr;</button>
+					
+			</article>
+		
+			
+            <div class="posts-grid">
+                
+                
+			<article class="post-card read-more-container" data-status="active">
+				<span class="post-date">September 30, 2025</span>
+				<h1>Researchers’ Night 2026 in Milan</h3>
+						
+					<p>The last Friday of September is always an exciting date on my calendar: Researchers’ Night. Researchers across the world bring their science outside the lab into the streets, museums, and universities. For me, it’s about sharing what we do and our passion for science to the people that could benefit the most.</p>
+					
+					<span class="dots"></span>
+					<span class="more-text">
+			
+					<img src="assets/figure_post4.jpeg" alt="RN_memorygame"
+							style="border-radius: 6%; margin-left: auto;  margin-right: 1em; max-height: 20vh" >
+					
+					<p>On 26 September 2025, this special night was celebrated all across <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/msca-citizens/join-a-celebration-of-science">Europe</a>. More than 1.5 million people took part in activities spread across 460 cities in 25 countries. From experiments and hands-on games to lively discussions and exhibitions, it was a chance for people of all ages to dive into the world of science and connect directly with researchers in their communities.</p>
 					
 					<p>This was my second time joining Researchers’ Night in <a href="https://www.coscience.eu/English_info.html">Milan</a> after my first experience in 2025, but this year felt different. For the first time, I was going to showcase the project I’m working on as part of my MSCA postdoctoral fellowship. My research is about figuring out what environmental factors might cause babies to be born too early, before 37 weeks instead of the full-term 40. What made it feel especially personal was that I’m using data from all pregnant women living in Lombardia. In a way, I was meeting people at the event who, until now, only existed in my dataset as numbers. Even though our dataset is fully anonymised, standing there and talking to people who might one day benefit from my work was both nerve-wracking and incredibly exciting. It made me feel the real impact my research could have.</p>
 					
@@ -375,7 +410,7 @@
 					
 			</article>
 		
-            <div class="posts-grid">
+                
                 
 				<article class="post-card read-more-container" data-status="active">
 					<span class="post-date">March 31, 2025</span>
