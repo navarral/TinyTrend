@@ -361,22 +361,23 @@
 					<p>To account for differences in population size across provinces (for example, Milan has far more births than smaller provinces) and make trends comparable over time, I calculated preterm birth rates by dividing the number of preterm births by total monthly deliveries for each labour category. At this stage, I could observe that spontaneous preterm births have been decreasing, while medically indicated preterm births followed a less clear, non-linear pattern. To gain a finer understanding, I grouped the data by the 12 provinces of Lombardy and used a two-week resolution, a compromise between weekly and monthly aggregation that retained enough observations to reliably compute trends.</p>
 
 					<p>Initial visualizations using rolling means revealed considerable variation, with preterm birth rates fluctuating by several percentage points (often around 2-6%) across provinces and labour types, which made me even more curious about potential environmental influences. Geographic and temporal differences often provide clues about environmental signals in the data. At this point, I realized that fully understanding these patterns would require exploring several modelling approaches, weighing the strengths and limitations of each before deciding on the best method to prepare for future <strong>Interrupted Time Series (ITS) analyses</strong> to investigate potential causal effects of environmental exposures on preterm birth. Below is a summary of the approaches I considered and what each was missing, which took a few months to learn:</p>
-
-					<ul>
-					  <li><strong>Rolling means</strong> – A simple way to visualise trends over time that I always use at the start.</li>
-					  
-					  <li><strong>Spectral methods</strong> – Useful to explore seasonality and periodic patterns.<br><em>Missing:</em> More target to single time series analysis rather than adjusting for covariates or spatial variation; one could use the cleaned time series with trend and seasonal pattern</li>
-					  
-					  <li><strong>Functional data analysis</strong> – Allowed examining entire trajectories of preterm birth rates.<br><em>Missing:</em> Complex to implement, interpret, and incorporate uncertainty; I wanted to try it but regression methods are just easier to interpret and perform</li>
-					  
-					  <li><strong>Generalised Linear Models (GLM)</strong> – Provided a basic quantitative framework with trend, seasonality (sin + cos), time varying covariates and Poisson distribution for counts/rates.<br><em>Missing:</em> Couldn’t capture non-linear temporal trends; good starting point to compare with more advanced models.</li>
-					  
-					  <li><strong>Generalised Additive Models (GAMs)</strong> – Builiding on GLM can add splines to capture non-linear trends.<br><em>Missing:</em> Standard GAMs are limited in forecasting and modelling temporal dependence; linear forecast based on last few data points.</li>
-					  
-					  <li><strong>Bayesian linear models</strong> – Allowed formal uncertainty quantification and priors.<br><em>Missing:</em> Still limited in capturing non-linear trends and dynamic temporal patterns.</li>
-					  
-					  <li><strong>Bayesian Dynamic GAMs</strong> – Combined flexibility, uncertainty quantification, and temporal structure with a Gaussian process, which has more interpretable parameters compared to splines. Dynamic GAMs improve forecasting and temporal process modelling, a crucial advantage as I prepare for an Interrupted Time Series (ITS) design for causal inference; even though they have a learning curve which I think it's worth it.</li>
-					</ul>
+					<div style="margin-left: 30px;">
+						<ul>
+						  <li><strong>Rolling means</strong> – A simple way to visualise trends over time that I always use at the start.</li>
+						  
+						  <li><strong>Spectral methods</strong> – Useful to explore seasonality and periodic patterns.<br><em>Missing:</em> More target to single time series analysis rather than adjusting for covariates or spatial variation; one could use the cleaned time series with trend and seasonal pattern</li>
+						  
+						  <li><strong>Functional data analysis</strong> – Allowed examining entire trajectories of preterm birth rates.<br><em>Missing:</em> Complex to implement, interpret, and incorporate uncertainty; I wanted to try it but regression methods are just easier to interpret and perform</li>
+						  
+						  <li><strong>Generalised Linear Models (GLM)</strong> – Provided a basic quantitative framework with trend, seasonality (sin + cos), time varying covariates and Poisson distribution for counts/rates.<br><em>Missing:</em> Couldn’t capture non-linear temporal trends; good starting point to compare with more advanced models.</li>
+						  
+						  <li><strong>Generalised Additive Models (GAMs)</strong> – Builiding on GLM can add splines to capture non-linear trends.<br><em>Missing:</em> Standard GAMs are limited in forecasting and modelling temporal dependence; linear forecast based on last few data points.</li>
+						  
+						  <li><strong>Bayesian linear models</strong> – Allowed formal uncertainty quantification and priors.<br><em>Missing:</em> Still limited in capturing non-linear trends and dynamic temporal patterns.</li>
+						  
+						  <li><strong>Bayesian Dynamic GAMs</strong> – Combined flexibility, uncertainty quantification, and temporal structure with a Gaussian process, which has more interpretable parameters compared to splines. Dynamic GAMs improve forecasting and temporal process modelling, a crucial advantage as I prepare for an Interrupted Time Series (ITS) design for causal inference; even though they have a learning curve which I think it's worth it.</li>
+						</ul>
+					</div>
 
 					<p>For readers unfamiliar with Dynamic GAMs, Nicholas Clark’s mvgam package and blog are a well-documented starting point: <a href="https://nicholasjclark.github.io/mvgam/">https://nicholasjclark.github.io/mvgam/</a>.</p>
 					
